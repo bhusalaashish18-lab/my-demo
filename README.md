@@ -1,3 +1,3 @@
 # my-demo
-This is my first repossitary.
+This is my first repositary.
 Author - Ashish Bhusal
